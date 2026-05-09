@@ -52,6 +52,7 @@ export declare function ChatBubbleQuote({ fill, secondaryfill, strokewidth, widt
 export declare function ChatBubble({ fill, secondaryfill, strokewidth, width, height, title, ...props }: NucleoIconProps): import("react/jsx-runtime").JSX.Element;
 export declare function Check3({ fill, secondaryfill: _secondaryfill, strokewidth, width, height, title, ...props }: NucleoIconProps): import("react/jsx-runtime").JSX.Element;
 export declare function Check({ fill, secondaryfill: _secondaryfill, strokewidth, width, height, title, ...props }: NucleoIconProps): import("react/jsx-runtime").JSX.Element;
+export declare function CircleAsterisk({ fill, secondaryfill, width, height, title, ...props }: NucleoIconProps): import("react/jsx-runtime").JSX.Element;
 export declare function CircleBitcoin({ fill, secondaryfill, width, height, title, ...props }: NucleoIconProps): import("react/jsx-runtime").JSX.Element;
 export declare function CircleCheck3({ fill, secondaryfill, strokewidth, width, height, title, ...props }: NucleoIconProps): import("react/jsx-runtime").JSX.Element;
 export declare function CircleCheck({ fill, secondaryfill, strokewidth, width, height, title, ...props }: NucleoIconProps): import("react/jsx-runtime").JSX.Element;
